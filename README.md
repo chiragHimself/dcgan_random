@@ -27,7 +27,7 @@ The training data for this project is obtained from the CIFAR-10 open dataset. I
 ## Training Details
 - **Epochs**: 25
 - **Training Time**: Approximately 4 hours
-- **Result**: A file named `generated_images_batch_epochX.png` is included in the repository, showcasing the generated images after each epoch. Please note that this file will be overwritten if you run the code in your IDE.
+- **Result**: various batch png's are included in the repository, showcasing the generated images after each epoch. Please note that this file will be overwritten if you run the code in your IDE.
 
 ## Generated Images
 Here are some samples of the generated images produced by the DCGAN model:
